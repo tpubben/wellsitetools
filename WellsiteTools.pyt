@@ -1,8 +1,4 @@
 import arcpy
-import os
-import csv
-from tkinter import *
-
 
 class Toolbox(object):
     def __init__(self):
